@@ -1,1 +1,2 @@
 # Regyo
+a discord bot
